@@ -8,7 +8,7 @@ exports.port = 80;
 /**
  * The server Namr - Being used to rename custom-plugins.
  */
-exports.serverName = 'Star';
+exports.serverName = 'Master';
 
 /**
 * The server IP - Being used to show avatars in profile.
